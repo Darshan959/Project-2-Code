@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634072828494",
+    "project_id": "travel-project-darsh",
+    "storage_bucket": "travel-project-darsh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634072828494:android:eceaaab7e39ff6ebe7d11f",
+        "android_client_info": {
+          "package_name": "com.travel.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-WfNOB2LsWePOUWzHwr9cG4OhRwLg_0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
